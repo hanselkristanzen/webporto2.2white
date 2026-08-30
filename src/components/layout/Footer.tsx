@@ -28,7 +28,7 @@ export function Footer() {
           </nav>
         </div>
         <div className={styles.bottom}>
-          <p className={styles.settle}>NEVER SETTLE.</p>
+          <p className={styles.settle}>NEVERSETTLE.</p>
           <p className={styles.meta}>© {year} Hansel Kristanzen</p>
         </div>
       </div>
